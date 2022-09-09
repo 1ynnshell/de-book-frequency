@@ -1,5 +1,4 @@
 # de-novel-frequency
-These frequency lists were generated from a bank of 20,000+ german e-books.
 
 ## WordRank Format
 
@@ -45,6 +44,6 @@ Due to the german language, some information has been lost in the creation of th
 
 ## Can I use this for {x}?
 
-Please feel free to use this for any project. For more information please refer to `LICENSE`, or for an easier read, refer to this link about the [Apache 2.0 License](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)).
+Please feel free to use this for any project. For more information please refer to the [License](https://github.com/brooke-leichtle/de-book-frequency/blob/main/LICENSE)
 
 If you do use this for a project, referencing back to this repository is not mandatory but would be appreciated. I would also love to hear about it!
